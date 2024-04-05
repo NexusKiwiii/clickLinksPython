@@ -3,7 +3,7 @@
 
 Easily create clickable links with different title in python.
 
-
+![Preview](https://raw.githubusercontent.com/NexusKiwiii/clickLinksPython/main/previews/preview.png)
 
 ## Installation
 
@@ -35,3 +35,4 @@ print(f"Another google link here (string): {googleLinkUrl}")                  # 
 ```
 
 
+![When hovering](https://raw.githubusercontent.com/NexusKiwiii/clickLinksPython/main/previews/onHover.png)

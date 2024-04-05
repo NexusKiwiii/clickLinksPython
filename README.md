@@ -3,6 +3,8 @@
 
 Easily create clickable links with different title in python.
 
+## (You can open them with ctrl + click, see last image)
+
 ![Preview](https://raw.githubusercontent.com/NexusKiwiii/clickLinksPython/main/previews/preview.png)
 
 ## Installation
